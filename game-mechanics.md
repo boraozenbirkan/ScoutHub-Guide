@@ -1,6 +1,6 @@
 # Game Mechanics
 
-// Basic Rules
+// Fundamental Rules
 
 // Some details
 

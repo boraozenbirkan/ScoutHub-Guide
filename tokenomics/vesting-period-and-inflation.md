@@ -1,2 +1,0 @@
-# Vesting Period and Inflation
-

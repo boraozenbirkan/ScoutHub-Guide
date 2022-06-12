@@ -43,15 +43,17 @@ Now, we need to add Binance Smart Chain (BSC) network to our wallet. You need to
 
 A Metamask notification will show up and ask which account of your wallet you want to connect to. After that, it will ask for your approval to add the network to your wallet.&#x20;
 
+{% hint style="info" %}
 This is a usual process when you interact with the blockchain. Every time you do something with your wallet, it will ask for your approval. You need to be sure of what you are approving. Therefore, **check the URL** of the website every time, and **do not connect your wallet to applications/websites that you don't trust!**
+{% endhint %}
 
-After you connect to the website, you will see the "**Add To Metamask**" button on the **Binance Smart Chain**. Click the button and approve the transaction. And you added the BSC network to your Metamask wallet with just a couple of clicks!
+After you connect to the website, you will see the "**Add To Metamask**" button on the **Binance Smart Chain**. Click the button, approve the transaction, and switch to the Binance Smart Chain Mainnet. And you have added the BSC network to your Metamask wallet with just a couple of clicks!
 
 ![Transaction Approval](../.gitbook/assets/Metamask\_6.png)
 
 ### 2. Transfer your funds
 
-You can transfer your funds from any exchange that has a connection to Binance Smart Chain to your wallet. We will show it from Binance since it is the most common crypto exchange all around the globe! If you don't have any funds on Binance or any crypto at all, you can visit [this page](https://www.binance.com/en/support/faq/c780097f75dd450a82d17f1e84153276) to learn about how to register, transfer, and buy crypto in Binance. You should have BNB or BUSD (the stablecoin of Binance).
+You can transfer your funds from any exchange that has a connection to Binance Smart Chain to your wallet. We will show it from Binance since it is the most common crypto exchange all around the globe! If you don't have any funds on Binance or any crypto at all, you can visit [this page](https://www.binance.com/en/support/faq/c780097f75dd450a82d17f1e84153276) to learn about how to register, transfer, and buy crypto in Binance. You should have BNB.
 
 Click your wallet and then overview
 
@@ -93,17 +95,17 @@ You can swap your BNB with HUB tokens on this page. To do that, you need to sele
 
 ![Swap](../.gitbook/assets/PancakeSwap\_1.png)
 
-First, you need to add the HUB token to the list. You need to paste the HUB token's contract address into the search bar.&#x20;
+First, you need to add the HUB token to the list. You need to paste the HUB token's contract address into the search bar to add it.&#x20;
 
 {% hint style="danger" %}
 **The official contract address is not published yet!** Therefore, you **CAN NOT** buy the HUB token at the moment. We will continue with a **test** address for demonstration purposes.
 {% endhint %}
 
-You can find the official contract address on our website. When it is available, copy and paste it here and click **import**.
+You will be able to find the official contract address on our website. When it is available, copy and paste it here and click **import**.
 
 ![](../.gitbook/assets/PancakeSwap\_2.png)
 
-PancakeSwap will warn you to check the contract address again. Because anyone can create a token with exact same name and symbol. However, the contract address is unique for each token. Therefore be sure that you are using the official contract address. Again, it is not available yet!&#x20;
+PancakeSwap will warn you to check the contract address again. Because anyone can create a token with exact same name and symbol. However, the contract addresses are unique for each token. Therefore be sure that you are using the official contract address. **Again, it is not available yet!**&#x20;
 
 ![](../.gitbook/assets/PancakeSwap\_3.png)
 
@@ -131,4 +133,4 @@ Your transaction will be completed in under 30 seconds and you will see your HUB
 
 ![Metamask Wallet](../.gitbook/assets/PancakeSwap\_10.png)
 
-Next time, you won't need to repeat what you have done today. You set up everything!&#x20;
+Next time, you won't need to repeat most of the things that you have done today. You set up everything! Boring stuff ended here, now you can start your Manager career on ScoutHub!

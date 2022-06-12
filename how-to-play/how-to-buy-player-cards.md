@@ -6,4 +6,4 @@ If you already have HUB tokens,&#x20;
 
 1. Log into ScoutHub
 2. Connect your wallet
-3. Go to the market and buy your player cards!
+3. Go to the [market](../markets.md) and buy your player cards!
